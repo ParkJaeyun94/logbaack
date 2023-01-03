@@ -1,0 +1,116 @@
+#logback.classic pattern: [QUERY] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[QUERY] [INFO ] 2023-01-03 11:21:56 [http-nio-8080-exec-1] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:21:56 [http-nio-8080-exec-1] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:21:56 [http-nio-8080-exec-1] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:12 [http-nio-8080-exec-2] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:12 [http-nio-8080-exec-2] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:12 [http-nio-8080-exec-2] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:12 [http-nio-8080-exec-3] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:12 [http-nio-8080-exec-3] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:12 [http-nio-8080-exec-3] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:12 [http-nio-8080-exec-5] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:12 [http-nio-8080-exec-5] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:12 [http-nio-8080-exec-5] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:12 [http-nio-8080-exec-7] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:12 [http-nio-8080-exec-7] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:12 [http-nio-8080-exec-7] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:12 [http-nio-8080-exec-8] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:12 [http-nio-8080-exec-8] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:12 [http-nio-8080-exec-8] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:13 [http-nio-8080-exec-10] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:13 [http-nio-8080-exec-10] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:13 [http-nio-8080-exec-10] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:13 [http-nio-8080-exec-2] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:13 [http-nio-8080-exec-2] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:13 [http-nio-8080-exec-2] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:14 [http-nio-8080-exec-4] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:14 [http-nio-8080-exec-4] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:14 [http-nio-8080-exec-4] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:19 [http-nio-8080-exec-6] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:19 [http-nio-8080-exec-6] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:19 [http-nio-8080-exec-6] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-10] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-10] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-10] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-2] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-2] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-2] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-4] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-4] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-4] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-6] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-6] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-6] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:20 [http-nio-8080-exec-8] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:21 [http-nio-8080-exec-10] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:21 [http-nio-8080-exec-10] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:21 [http-nio-8080-exec-10] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:22 [http-nio-8080-exec-2] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:22 [http-nio-8080-exec-2] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:22 [http-nio-8080-exec-2] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:26 [http-nio-8080-exec-4] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:26 [http-nio-8080-exec-4] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:26 [http-nio-8080-exec-4] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:26 [http-nio-8080-exec-6] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:26 [http-nio-8080-exec-6] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:26 [http-nio-8080-exec-6] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-8] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-8] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-8] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-9] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-9] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-9] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-1] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-1] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-1] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-3] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-3] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-3] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-5] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-5] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-5] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:27 [http-nio-8080-exec-7] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:27 [http-nio-8080-exec-7] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:27 [http-nio-8080-exec-7] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:28 [http-nio-8080-exec-9] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:28 [http-nio-8080-exec-9] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:28 [http-nio-8080-exec-9] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:28 [http-nio-8080-exec-1] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:28 [http-nio-8080-exec-1] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:28 [http-nio-8080-exec-1] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:28 [http-nio-8080-exec-3] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:28 [http-nio-8080-exec-3] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:28 [http-nio-8080-exec-3] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:28 [http-nio-8080-exec-5] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:28 [http-nio-8080-exec-5] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:28 [http-nio-8080-exec-5] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:28 [http-nio-8080-exec-7] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:28 [http-nio-8080-exec-7] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:28 [http-nio-8080-exec-7] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:29 [http-nio-8080-exec-9] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:29 [http-nio-8080-exec-9] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:29 [http-nio-8080-exec-9] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:29 [http-nio-8080-exec-1] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:29 [http-nio-8080-exec-1] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:29 [http-nio-8080-exec-1] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:29 [http-nio-8080-exec-3] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:29 [http-nio-8080-exec-3] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:29 [http-nio-8080-exec-3] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:29 [http-nio-8080-exec-5] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:29 [http-nio-8080-exec-5] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:29 [http-nio-8080-exec-5] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:29 [http-nio-8080-exec-7] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:29 [http-nio-8080-exec-7] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:29 [http-nio-8080-exec-7] [SQL_LOG1:17] - log --> ERROR
+[QUERY] [INFO ] 2023-01-03 11:22:30 [http-nio-8080-exec-9] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:30 [http-nio-8080-exec-9] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:30 [http-nio-8080-exec-9] [SQL_LOG1:17] - log --> ERROR
+#logback.classic pattern: [QUERY] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[QUERY] [INFO ] 2023-01-03 11:22:56 [http-nio-8080-exec-1] [SQL_LOG1:15] - log --> INFO
+[QUERY] [WARN ] 2023-01-03 11:22:56 [http-nio-8080-exec-1] [SQL_LOG1:16] - log --> WARN
+[QUERY] [ERROR] 2023-01-03 11:22:56 [http-nio-8080-exec-1] [SQL_LOG1:17] - log --> ERROR

@@ -1,0 +1,8 @@
+[REQUEST1] [INFO ] 2023-01-03 10:54:32 [main] [o.s.b.w.embedded.tomcat.TomcatWebServer:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[REQUEST1] [INFO ] 2023-01-03 10:54:32 [main] [dev.be.logbaack.LogbaackApplication:61] - Started LogbaackApplication in 1.995 seconds (JVM running for 3.039)
+[REQUEST1] [INFO ] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[REQUEST1] [INFO ] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [o.s.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+[REQUEST1] [INFO ] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [o.s.web.servlet.DispatcherServlet:547] - Completed initialization in 1 ms
+[REQUEST1] [INFO ] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [d.be.logbaack.controller.DemoController:15] - log --> INFO
+[REQUEST1] [WARN ] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [d.be.logbaack.controller.DemoController:16] - log --> WARN
+[REQUEST1] [ERROR] 2023-01-03 10:54:41 [http-nio-8080-exec-1] [d.be.logbaack.controller.DemoController:17] - log --> ERROR

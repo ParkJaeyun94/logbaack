@@ -1,0 +1,10 @@
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[REQUEST1] [ERROR] 2023-01-03 11:03:14 [http-nio-8080-exec-5] [d.be.logbaack.controller.DemoController:17] - log --> ERROR
+[REQUEST1] [INFO ] 2023-01-03 11:03:16 [http-nio-8080-exec-8] [d.be.logbaack.controller.DemoController:15] - log --> INFO
+[REQUEST1] [WARN ] 2023-01-03 11:03:16 [http-nio-8080-exec-8] [d.be.logbaack.controller.DemoController:16] - log --> WARN
+[REQUEST1] [ERROR] 2023-01-03 11:03:16 [http-nio-8080-exec-8] [d.be.logbaack.controller.DemoController:17] - log --> ERROR
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n

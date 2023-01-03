@@ -1,0 +1,5 @@
+#logback.classic pattern: [ERROR] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[ERROR] [ERROR] 2023-01-03 11:15:13 [http-nio-8080-exec-1] [d.be.logbaack.controller.DemoController:17] - log --> ERROR
+#logback.classic pattern: [ERROR] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [ERROR] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+#logback.classic pattern: [ERROR] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n

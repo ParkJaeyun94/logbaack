@@ -1,0 +1,7 @@
+[REQUEST1] [INFO ] 2023-01-03 10:55:42 [http-nio-8080-exec-2] [d.be.logbaack.controller.DemoController:15] - log --> INFO
+[REQUEST1] [WARN ] 2023-01-03 10:55:42 [http-nio-8080-exec-2] [d.be.logbaack.controller.DemoController:16] - log --> WARN
+[REQUEST1] [ERROR] 2023-01-03 10:55:42 [http-nio-8080-exec-2] [d.be.logbaack.controller.DemoController:17] - log --> ERROR
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[REQUEST1] [INFO ] 2023-01-03 10:56:27 [main] [dev.be.logbaack.LogbaackApplication:55] - Starting LogbaackApplication using Java 11.0.17 on DESKTOP-AQ1UVGG with PID 23724 (C:\Users\jaeyun\IdeaProjects\logbaack\build\classes\java\main started by jaeyun in C:\Users\jaeyun\IdeaProjects\logbaack)
+[REQUEST1] [INFO ] 2023-01-03 10:56:27 [main] [dev.be.logbaack.LogbaackApplication:637] - The following 1 profile is active: "prod"
+[REQUEST1] [INFO ] 2023-01-03 10:56:28 [main] [o.s.b.w.embedded.tomcat.TomcatWebServer:108] - Tomcat initialized with port(s): 8080 (http)

@@ -1,0 +1,9 @@
+#logback.classic pattern: [REQUEST1] [%-5level] %d{yyyy-MM-dd HH:mm:ss} [%thread] [%logger{40}:%line] - %msg%n
+[REQUEST1] [INFO ] 2023-01-03 10:56:28 [main] [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+[REQUEST1] [INFO ] 2023-01-03 10:56:28 [main] [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.70]
+[REQUEST1] [INFO ] 2023-01-03 10:56:28 [main] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+[REQUEST1] [INFO ] 2023-01-03 10:56:28 [main] [o.s.b.w.s.c.ServletWebServerApplicationContext:292] - Root WebApplicationContext: initialization completed in 988 ms
+[REQUEST1] [INFO ] 2023-01-03 10:56:29 [main] [o.s.b.w.embedded.tomcat.TomcatWebServer:220] - Tomcat started on port(s): 8080 (http) with context path ''
+[REQUEST1] [INFO ] 2023-01-03 10:56:29 [main] [dev.be.logbaack.LogbaackApplication:61] - Started LogbaackApplication in 1.937 seconds (JVM running for 3.166)
+[REQUEST1] [INFO ] 2023-01-03 10:56:41 [http-nio-8080-exec-1] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[REQUEST1] [INFO ] 2023-01-03 10:56:41 [http-nio-8080-exec-1] [o.s.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
